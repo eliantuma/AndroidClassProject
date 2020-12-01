@@ -1,6 +1,6 @@
 package com.example.mustnoticeboard;
-//SSEGUJJA JIMMY
-//2017/BIT/163
+//NTUMA ELIA
+//2015/BIT/100/PS
 
 import android.content.Intent;
 import android.content.IntentFilter;
