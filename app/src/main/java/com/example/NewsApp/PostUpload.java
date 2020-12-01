@@ -1,4 +1,4 @@
-package com.example.mustnoticeboard;
+package com.example.NewsApp;
 
 public class PostUpload {
     private String title;

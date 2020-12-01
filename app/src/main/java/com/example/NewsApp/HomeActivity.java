@@ -1,4 +1,4 @@
-package com.example.mustnoticeboard;
+package com.example.NewsApp;
 
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -10,10 +10,10 @@ import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
 import android.widget.Toast;
+
+import com.example.NewsApp.R;
 
 public class HomeActivity extends AppCompatActivity {
     private DrawerLayout drawerLayout;

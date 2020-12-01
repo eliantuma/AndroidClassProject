@@ -1,12 +1,10 @@
-package com.example.mustnoticeboard;
+package com.example.NewsApp;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.net.ConnectivityManager;
-import android.os.BatteryManager;
 import android.widget.Toast;
-import android.widget.Toolbar;
 
 public class MyInternetConnection extends BroadcastReceiver {
     @Override

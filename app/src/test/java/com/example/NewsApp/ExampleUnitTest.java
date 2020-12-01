@@ -1,4 +1,4 @@
-package com.example.mustnoticeboard;
+package com.example.NewsApp;
 
 import org.junit.Test;
 

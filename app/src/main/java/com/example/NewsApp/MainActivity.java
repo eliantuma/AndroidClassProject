@@ -1,21 +1,17 @@
-package com.example.mustnoticeboard;
+package com.example.NewsApp;
 //NTUMA ELIA
 //2015/BIT/100/PS
 
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.net.ConnectivityManager;
-import android.net.Uri;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.Toast;
 
-import java.io.BufferedInputStream;
-import java.io.BufferedReader;
-import java.io.InputStream;
-import java.io.InputStreamReader;
+import com.example.NewsApp.R;
+
 import java.net.HttpURLConnection;
 import java.net.URL;
 

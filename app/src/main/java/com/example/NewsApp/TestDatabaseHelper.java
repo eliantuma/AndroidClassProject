@@ -1,15 +1,10 @@
-package com.example.mustnoticeboard;
+package com.example.NewsApp;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.util.Log;
-
-import java.util.jar.Attributes;
-
-import static android.support.constraint.Constraints.TAG;
 
 public class TestDatabaseHelper extends SQLiteOpenHelper {
     public static final String DATABASE_NAME="test.db";

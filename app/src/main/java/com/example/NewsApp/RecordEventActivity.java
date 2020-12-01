@@ -1,10 +1,10 @@
-package com.example.mustnoticeboard;
+package com.example.NewsApp;
 
-import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
-import android.database.sqlite.SQLiteOpenHelper;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.NewsApp.R;
 
 public class RecordEventActivity extends AppCompatActivity {
 SQLiteDatabase xx;
